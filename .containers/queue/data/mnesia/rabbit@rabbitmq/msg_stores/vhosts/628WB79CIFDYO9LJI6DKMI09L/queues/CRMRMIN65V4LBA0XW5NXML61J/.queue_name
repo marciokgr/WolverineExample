@@ -1,0 +1,3 @@
+VHOST: /
+QUEUE: wolverine-dead-letter-queue
+INDEX: v2
